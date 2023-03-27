@@ -1,0 +1,1 @@
+Criação de ponteiro tipo Loader com HTML e CSS
